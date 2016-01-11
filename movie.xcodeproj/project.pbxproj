@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		3836EE5C1C43D73200E717CA /* Graph.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Graph.py; sourceTree = "<group>"; };
 		38B18ED01C43C702009152F8 /* Hello.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Hello.py; sourceTree = "<group>"; };
 		38B18ED21C43C78C009152F8 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -15,6 +16,7 @@
 		38B18EC51C43C64F009152F8 = {
 			isa = PBXGroup;
 			children = (
+				3836EE5C1C43D73200E717CA /* Graph.py */,
 				38B18ED21C43C78C009152F8 /* .gitignore */,
 				38B18ED01C43C702009152F8 /* Hello.py */,
 			);
@@ -182,6 +184,7 @@
 				38B18ECF1C43C64F009152F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
